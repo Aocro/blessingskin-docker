@@ -6,6 +6,12 @@ Build blessingskin docker images every 7 days.
 
 > Source: <https://github.com/bs-community/blessing-skin-server>
 
+## Details
+
+- Build the image using the [official Dockerfile](https://github.com/bs-community/blessing-skin-server/blob/dev/Dockerfile)
+- Build with the latest source code
+- Build with Github Action so you can check the logs at any time
+
 ## Usage
 
 ### Docker
