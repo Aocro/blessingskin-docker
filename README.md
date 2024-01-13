@@ -1,5 +1,9 @@
 # blessingskin-docker
 
+---
+# Moved to [Aocro/docker-build/blessing-skin](https://github.com/Aocro/docker-build/tree/main/blessing-skin)
+---
+
 Build blessingskin docker images every 7 days.
 
 - Platform: arm64, amd64
